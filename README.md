@@ -7,13 +7,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0014,45:4b1d7a,100:39ff14&height=220&section=header&text=ZELEFF&fontSize=80&fontColor=ff6a00&fontAlignY=38&desc=EVANGELION%20UNIT-01%20%2F%2F%20PILOT%20ONLINE&descAlignY=60&descSize=16&animation=fadeIn&stroke=39ff14&strokeWidth=1" width="100%" />
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=640&lines=%3E+SYNC+RATE%3A+400%25+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%3E+PATTERN+BLUE+%E2%80%94+DEVELOPER+DETECTED;%3E+OPERATION+NARTYA+%E2%80%94+IN+PROGRESS;%3E+Je+dois+pas+fuir.+Je+dois+coder." alt="> SYNC RATE: 400%" />
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/NERV-CENTRAL%20DOGMA-e8001c?style=for-the-badge&labelColor=0d0014" />
 <img src="https://img.shields.io/badge/BASE-R%C3%89UNION%20974-ff6a00?style=for-the-badge&labelColor=0d0014" />
 <img src="https://hits.sh/github.com/RandomZeleff.svg?style=for-the-badge&label=CONTACTS&color=6b3fa0&labelColor=0d0014" />
-
-<br/><br/>
+</p>
 
 <img src="https://media.giphy.com/media/wMQiwQaolQAWQ/giphy.gif" width="100%" alt="Unit-01 awakening" />
 <br/>

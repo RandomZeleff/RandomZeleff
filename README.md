@@ -10,9 +10,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=640&lines=%3E+SYNC+RATE%3A+400%25+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%3E+PATTERN+BLUE+%E2%80%94+DEVELOPER+DETECTED;%3E+OPERATION+NARTYA+%E2%80%94+IN+PROGRESS;%3E+Je+dois+pas+fuir.+Je+dois+coder." alt="> SYNC RATE: 400%" />
 
 <img src="https://img.shields.io/badge/NERV-CENTRAL%20DOGMA-e8001c?style=for-the-badge&labelColor=0d0014" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-39ff14?style=for-the-badge&labelColor=0d0014" />
-<img src="https://img.shields.io/badge/BASE-REUNION%20ISLAND-ff6a00?style=for-the-badge&labelColor=0d0014" />
-<img src="https://hits.sh/github.com/RandomZeleff.svg?style=for-the-badge&label=CONTACTS%20D%C3%89TECT%C3%89S&color=6b3fa0&labelColor=0d0014" />
+<img src="https://img.shields.io/badge/BASE-R%C3%89UNION%20974-ff6a00?style=for-the-badge&labelColor=0d0014" />
+<img src="https://hits.sh/github.com/RandomZeleff.svg?style=for-the-badge&label=CONTACTS&color=6b3fa0&labelColor=0d0014" />
 
 <br/><br/>
 
@@ -114,12 +113,6 @@ pour regarder, suivre et partager ses animes au même endroit.
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,androidstudio,swift,linux&theme=dark" />
 
-<br/><br/>
-
-<img src="https://media.giphy.com/media/ZN5okPb395T7G/giphy.gif" width="100%" alt="Unit-01 launch" />
-<br/>
-<sub><code>▸ CAM-03 // CATAPULTE 7 — CÂBLE OMBILICAL CONNECTÉ</code></sub>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b3fa0,50:39ff14,100:ff6a00&height=2" width="100%" />
@@ -148,16 +141,6 @@ pour regarder, suivre et partager ses animes au même endroit.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RandomZeleff&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&card_width=420&bg_color=0d0014&title_color=ff6a00&text_color=c9b6ff&icon_color=39ff14&border_color=6b3fa0&custom_title=EVA-01%20%2F%2F%20Combat%20Record" />
 <img height="165" src="https://streak-stats.demolab.com?user=RandomZeleff&background=0D0014&border=6B3FA0&stroke=6B3FA0&ring=39FF14&fire=FF6A00&currStreakNum=39FF14&sideNums=FF6A00&currStreakLabel=39FF14&sideLabels=C9B6FF&dates=8F7BB3&date_format=j%20M%5B%20Y%5D" />
 
-<br/><br/>
-
-<!-- Serpent généré par .github/workflows/snake.yml (branche output) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RandomZeleff/RandomZeleff/output/eva-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RandomZeleff/RandomZeleff/output/eva-snake.svg" />
-  <img alt="Angel snake" src="https://raw.githubusercontent.com/RandomZeleff/RandomZeleff/output/eva-snake-dark.svg" width="100%" />
-</picture>
-<br/>
-<sub><code>▸ ALERTE // PATTERN BLUE — UN ANGE DÉVORE LE GRAPHE DE CONTRIBUTIONS</code></sub>
 
 </div>
 
